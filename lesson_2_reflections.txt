@@ -1,0 +1,21 @@
+*What happens when you initialize a repository? Why do you need to do it?
+
+The folder will use git to tracking the versions, changes under this folder
+
+*How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory can provide you a place to organize the files that you want to put it together/seperate, it is a good place for you to organzie things
+
+Repository will relfect the update results
+
+*How can you use the staging area to make sure you have one commit per logical change?
+Use git add specific file and then commit it 
+
+*What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When add new features or test new functions 
+
+*How do the diagrams help you visualize the branch structure?
+It illustrates the structure of the commits within different branches and visulize the relationships in between commits
+
+*What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+To merge those finished functions, the reason to represent the diagram is because this is more easy to capture the order of the commits
